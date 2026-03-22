@@ -1,0 +1,195 @@
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+  #hero-section .container .content .left-content .trend {
+    width: 20%;
+  }
+  #hero-section .container .content .left-content h1 {
+    width: 50%;
+  }
+
+  #author-section .container .people .person {
+    height: 450px;
+    width: 48%;
+  }
+  #author-section .container .people .person .pImg {
+    width: 150px;
+  }
+  #author-section .container .people .person .social {
+    width: 20%;
+  }
+  #footer .container .columns .col.three {
+    width: 80%;
+  }
+  #footer .container .down p {
+    width: 100%;
+    text-align: center;
+  }
+}
+/*  */
+@media screen and (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+  .nav .nav-content {
+    display: flex;
+  }
+  #hero-section .container .content .left-content {
+    width: 50%;
+  }
+  #latest-article .container .art .left-article .box {
+    flex-wrap: nowrap;
+  }
+  #latest-article .container .art .left-article .box .img-content .div-spans {
+    flex-wrap: nowrap;
+  }
+  .nav .nav-content {
+    width: 70%;
+    justify-content: space-between;
+  }
+  #latest-article
+    .container
+    .art
+    .left-article
+    .box
+    .img-content
+    .div-spans
+    span {
+    font-size: 10px;
+  }
+  #hero-section .container .content .left-content .trend {
+    width: 35%;
+  }
+  #hero-section .container .content .left-content h1 {
+    width: 100%;
+  }
+  #hero-section .container .content .right-content {
+    width: 45%;
+  }
+  #latest-article .container .art {
+    justify-content: space-between;
+  }
+  #latest-article .container .art .left-article {
+    width: 68%;
+  }
+  #latest-article .container .art .right-article {
+    width: 30%;
+  }
+
+  #author-section .container .people .person .social {
+    width: 50%;
+  }
+  #author-section .container .people .person {
+    width: 32%;
+    height: 500px;
+  }
+  #join .container .join-content {
+    justify-content: space-between;
+  }
+  #join .container .join-content .left-join {
+    width: 50%;
+  }
+  #join .container .join-content .right-join {
+    width: 45%;
+  }
+  #footer .container .columns {
+    flex-wrap: nowrap;
+  }
+  #footer .container .down {
+    justify-content: space-between;
+  }
+  #footer .container .down p {
+    width: 50%;
+  }
+  .nav .nav-content {
+    display: flex;
+  }
+  .nav .dashed {
+    display: none;
+  }
+}
+@media screen and (min-width: 1400px) {
+  .container {
+    max-width: 1320px;
+  }
+  .nav .nav-content {
+    display: flex;
+  }
+  #hero-section .container .content .left-content {
+    width: 50%;
+  }
+  #latest-article .container .art .left-article .box .img-content .div-spans {
+    flex-wrap: nowrap;
+  }
+  .nav .nav-content {
+    width: 70%;
+    justify-content: space-between;
+  }
+  #latest-article
+    .container
+    .art
+    .left-article
+    .box
+    .img-content
+    .div-spans
+    span {
+    font-size: 10px;
+  }
+  #hero-section .container .content .left-content .trend {
+    width: 30%;
+  }
+  #hero-section .container .content .right-content {
+    width: 45%;
+  }
+  #latest-article .container .art .left-article .box {
+    flex-wrap: nowrap;
+  }
+  #latest-article .container .art {
+    justify-content: space-between;
+  }
+  #latest-article .container .art .left-article {
+    width: 68%;
+  }
+  #latest-article .container .art .right-article {
+    width: 30%;
+  }
+
+  #author-section .container .people .person .social {
+    width: 50%;
+  }
+  #author-section .container .people .person {
+    width: 32%;
+    height: 500px;
+  }
+  #join .container .join-content {
+    justify-content: space-between;
+  }
+  #join .container .join-content .left-join {
+    width: 50%;
+  }
+  #join .container .join-content .right-join {
+    width: 45%;
+  }
+  #footer .container .columns {
+    flex-wrap: nowrap;
+  }
+  #footer .container .down {
+    justify-content: space-between;
+  }
+  #footer .container .down p {
+    width: 40%;
+  }
+  .nav .nav-content {
+    display: flex;
+  }
+  .nav .dashed {
+    display: none;
+  }
+}
