@@ -636,6 +636,8 @@ span._blue {
   font-size: 48px;
   font-weight: 900;
   padding-block: 10px;
+  position: relative;
+  z-index: 999;
 }
 #author-section .container .paragraph-with-underline {
   font-size: 20px;
